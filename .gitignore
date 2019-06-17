@@ -1,2 +1,5 @@
 venv
-.vscode 
+.vscode
+.pytest
+.pytest_cache
+*.pyc
